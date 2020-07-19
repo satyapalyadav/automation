@@ -1,3 +1,6 @@
 This file is configuraiotn
 projec
 wellmmmmmmmmmt_Change 2 after commit
+
+developer2
+developer1
